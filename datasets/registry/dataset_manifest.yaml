@@ -1,0 +1,21 @@
+version: 1
+updated_at: 2026-03-04
+policy:
+  append_only: true
+  delete_existing: false
+  overwrite_existing: false
+snapshots:
+  - name: faiss_store_snapshot_2026-03-04
+    path: artifacts/indices/faiss_store_snapshot_2026-03-04
+
+datasets:
+  - name: lawyers_v1
+    path: datasets/raw/lawyers/lawyers_v1.csv
+    type: csv
+    immutable: true
+    notes: Static curated lawyer directory for recommendation + booking.
+  - name: legacy_faiss_metadata
+    path: faiss_store/metadata.pkl
+    type: pickle
+    immutable: true
+    notes: Preserved historical vector metadata.

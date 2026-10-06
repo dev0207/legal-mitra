@@ -1,0 +1,31 @@
+lawyer_id,name,city,state,practice_areas,languages,years_experience,fee_range,rating,latitude,longitude
+LM-LAW-001,Adv. Neha Sharma,Pune,Maharashtra,rental|civil|property,EN|HI|MR,9,2000-5000,4.6,18.5204,73.8567
+LM-LAW-002,Adv. Ravi Iyer,Mumbai,Maharashtra,criminal|civil,EN|HI,12,5000-10000,4.7,19.0760,72.8777
+LM-LAW-003,Adv. Sneha Patil,Nagpur,Maharashtra,family|property|civil,EN|MR|HI,7,1500-4000,4.4,21.1458,79.0882
+LM-LAW-004,Adv. Arjun Gupta,Delhi,Delhi,criminal|labor|civil,EN|HI,14,4000-9000,4.5,28.6139,77.2090
+LM-LAW-005,Adv. Kiran Deshmukh,Pune,Maharashtra,rental|labor|civil,EN|MR,6,1500-3500,4.3,18.5074,73.8077
+LM-LAW-006,Adv. Priya Kulkarni,Mumbai,Maharashtra,family|consumer|civil,EN|HI|MR,11,3000-7000,4.8,19.0176,72.8561
+LM-LAW-007,Adv. Sanjay Mehta,Ahmedabad,Gujarat,corporate|property|tax,EN|HI|GU,18,6000-15000,4.9,23.0225,72.5714
+LM-LAW-008,Adv. Anita Reddy,Hyderabad,Telangana,criminal|family|civil,EN|HI|TE,10,3000-8000,4.5,17.3850,78.4867
+LM-LAW-009,Adv. Vikram Singh,Jaipur,Rajasthan,property|rental|civil,EN|HI,8,2000-6000,4.4,26.9124,75.7873
+LM-LAW-010,Adv. Meena Nair,Chennai,Tamil Nadu,labor|consumer|civil,EN|TA,15,4000-10000,4.7,13.0827,80.2707
+LM-LAW-011,Adv. Rajesh Tiwari,Lucknow,Uttar Pradesh,criminal|property|civil,EN|HI,20,5000-12000,4.6,26.8467,80.9462
+LM-LAW-012,Adv. Deepa Joshi,Bangalore,Karnataka,corporate|tax|civil,EN|HI|KN,13,5000-12000,4.8,12.9716,77.5946
+LM-LAW-013,Adv. Arun Saxena,Bhopal,Madhya Pradesh,criminal|family|labor,EN|HI,9,2000-5000,4.3,23.2599,77.4126
+LM-LAW-014,Adv. Kavita Rao,Pune,Maharashtra,consumer|rental|property,EN|HI|MR,7,2500-6000,4.5,18.5362,73.8478
+LM-LAW-015,Adv. Manoj Pillai,Kochi,Kerala,property|family|civil,EN|HI|ML,16,3500-8000,4.6,9.9312,76.2673
+LM-LAW-016,Adv. Sunita Das,Kolkata,West Bengal,labor|criminal|civil,EN|HI|BN,11,3000-7000,4.4,22.5726,88.3639
+LM-LAW-017,Adv. Amit Choudhary,Delhi,Delhi,corporate|tax|property,EN|HI,22,8000-20000,4.9,28.6328,77.2197
+LM-LAW-018,Adv. Pooja Bhatt,Mumbai,Maharashtra,family|rental|consumer,EN|HI|MR,5,1500-4000,4.2,19.0596,72.8295
+LM-LAW-019,Adv. Suresh Babu,Hyderabad,Telangana,property|corporate|civil,EN|TE|HI,17,5000-12000,4.7,17.4065,78.4772
+LM-LAW-020,Adv. Rekha Menon,Bangalore,Karnataka,family|consumer|labor,EN|KN|HI,8,2500-6000,4.5,12.9352,77.6245
+LM-LAW-021,Adv. Gaurav Pandey,Varanasi,Uttar Pradesh,criminal|property|civil,EN|HI,12,2000-5000,4.3,25.3176,82.9739
+LM-LAW-022,Adv. Nisha Agarwal,Pune,Maharashtra,corporate|tax|civil,EN|HI|MR,10,4000-10000,4.6,18.5314,73.8446
+LM-LAW-023,Adv. Ramesh Verma,Chandigarh,Punjab,labor|criminal|civil,EN|HI|PA,19,4000-9000,4.7,30.7333,76.7794
+LM-LAW-024,Adv. Swati Patel,Ahmedabad,Gujarat,family|property|rental,EN|GU|HI,6,1500-4000,4.3,23.0395,72.5660
+LM-LAW-025,Adv. Harish Kumar,Chennai,Tamil Nadu,criminal|corporate|civil,EN|TA|HI,14,5000-12000,4.8,13.0569,80.2425
+LM-LAW-026,Adv. Lakshmi Iyer,Mumbai,Maharashtra,tax|corporate|property,EN|HI|MR,21,8000-18000,4.9,19.0330,72.8654
+LM-LAW-027,Adv. Dinesh Jain,Indore,Madhya Pradesh,rental|consumer|civil,EN|HI,7,1500-4000,4.2,22.7196,75.8577
+LM-LAW-028,Adv. Pallavi Sinha,Patna,Bihar,family|criminal|labor,EN|HI,9,2000-5000,4.4,25.6093,85.1376
+LM-LAW-029,Adv. Siddharth Roy,Kolkata,West Bengal,corporate|property|tax,EN|BN|HI,15,5000-12000,4.6,22.5448,88.3426
+LM-LAW-030,Adv. Anjali Mishra,Delhi,Delhi,family|consumer|rental,EN|HI,8,3000-7000,4.5,28.6508,77.2340
